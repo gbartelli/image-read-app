@@ -13,7 +13,7 @@ Antes de começar, certifique-se de que possui:
 
 ### 1. Inicie o Aplicativo
 
-- Localize o arquivo executável do programa (por exemplo, `ExtratorDeTexto.exe`) e dê um duplo clique para executá-lo.
+- Localize o arquivo executável do programa (`image_read_app.exe`) e dê um duplo clique para executá-lo.
 
 ### 2. Insira Suas Credenciais do Azure
 
